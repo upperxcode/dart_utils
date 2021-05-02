@@ -1,4 +1,4 @@
-import 'package:dart_utils/strings/remove_acents.dart';
+import 'package:dart_utils/strings/remove_accents.dart';
 import 'package:test/test.dart';
 
 void main() {
